@@ -1,2 +1,2 @@
-# Analyzing Stock performance and building a dashboard
+# Analyzing Stock performance and building a dashboard Project
  
